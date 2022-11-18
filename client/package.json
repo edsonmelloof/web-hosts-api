@@ -11,7 +11,7 @@
     "react-dom": "^16.8.6",
     "react-is": "^16.8.6",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-transition-group": "^4.2.1",
     "scheduler": "^0.14.0",
     "semantic-ui-react": "^0.87.2",
