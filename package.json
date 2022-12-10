@@ -19,7 +19,7 @@
     "datatables.net": "^1.10.19",
     "debug": "^4.1.1",
     "esm": "^3.2.25",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "font-awesome": "^4.7.0",
     "history": "^4.9.0",
     "http": "0.0.0",
